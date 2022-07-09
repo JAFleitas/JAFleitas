@@ -6,19 +6,7 @@ donde aprendí: JAVASCRIPT, TYPESCRIPT, REACT, REDUX, CSS, NODE.JS, EXPRESS POST
 Realicé diversas tareas y proyectos, donde no solo aprendi sobre programar, si no que me enseño un estilo de vida de dedicacion y constancia,
 ademas de relacionarme con gente de toda Latinoamérica.
 
-    const LISTA_DE_DESEOS = {
-        aprender : 
-          [
-            "React Native",
-            "Python", 
-            "Ingles avanzado", 
-            "NoSQL", 
-            "Y mucho mucho más!!"
-          ],
-          
-         empleo : "CONSEGUIR UN EMPLEO QUE ME BRINDE LA OPORTUNIDAD DE CRECER EN LO PROFESIONAL Y PERSONAL";
-    };
-    
+  
 
    SOBRE MI ? 
 
