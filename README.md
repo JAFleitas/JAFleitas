@@ -23,7 +23,7 @@
 <br/>  
 <br/>  
 
-<div align="center">Soy una persona que busca nuevos desafios y problematicas que me permitan hacer volar la imaginacion para resolverlas.  Quiero crear y mejorar Apps. Tambien aprender nuevas tecnologias que me ayuden a ofrecer una mejor calidad en mis trabajos.  </div>  
+<div align="center"><p>Soy una persona que busca nuevos desafios y problematicas que me permitan hacer volar la imaginacion para resolverlas.  Quiero crear y mejorar Apps. Tambien aprender nuevas tecnologias que me ayuden a ofrecer una mejor calidad en mis trabajos.</p>  </div>  
   
 
 <br/>  
@@ -112,4 +112,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
