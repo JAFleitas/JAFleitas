@@ -42,7 +42,7 @@ Soy una persona que busca nuevos desafios y problematicas que me permitan hacer 
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -83,7 +83,7 @@ Soy una persona que busca nuevos desafios y problematicas que me permitan hacer 
 
 </td><td valign="top" width="50%">
 
-
+</td></tr></table> 
 
  
 
