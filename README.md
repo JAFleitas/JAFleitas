@@ -43,7 +43,7 @@
 
 </td><td valign="top" width="50%">
   <div align="center">
-<img src="https://giphy.com/embed/3orieSCjpTnfFa68Cs" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
 
  
