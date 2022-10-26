@@ -23,9 +23,7 @@
 <br/>  
 <br/>  
 
-<div align="center"><p>Soy una persona que busca nuevos desafios y problematicas que me permitan hacer volar la imaginacion para resolverlas.
-  Quiero crear y mejorar Apps. 
-  Tambien aprender nuevas tecnologias que me ayuden a ofrecer una mejor calidad en mis trabajos.</p>  </div>  
+### <div align="center">Soy una persona que busca nuevos desafios y problematicas que me permitan hacer volar la imaginacion para resolverlas.  Quiero crear y mejorar Apps. Tambien aprender nuevas tecnologias que me ayuden a ofrecer una mejor calidad en mis trabajos.  </div>  
   
 
 <br/>  
