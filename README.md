@@ -85,7 +85,7 @@ Soy una persona que busca nuevos desafios y problematicas que me permitan hacer 
 
 
 
-</td></tr></table>  
+ 
 
 <br/>  
 
@@ -101,7 +101,6 @@ Soy una persona que busca nuevos desafios y problematicas que me permitan hacer 
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
