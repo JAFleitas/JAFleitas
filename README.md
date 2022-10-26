@@ -1,4 +1,8 @@
-# <div align="center">Hola👋 Soy Gonzalo Fleitas</div>  
+# <div align="center">Hola👋 Soy Gonzalo Fleitas
+</div>  
+  
+
+#### **<div align="center">Desarrollador Frontend - Backend 🖥️</div>**  
   
 
 <div align="center">
@@ -17,16 +21,13 @@
 </div>  
   
 
-
-
-### Desarrollador Frontend - Backend  
 <div align="center">Soy una persona que busca nuevos desafios y problematicas que me permitan hacer volar la imaginacion para resolverlas.  Quiero crear y mejorar Apps. Tambien aprender nuevas tecnologias que me ayuden a ofrecer una mejor calidad en mis trabajos.  </div>  
   
 
 <br/>  
 
 
-## Rapidfire  
+ 
 <table><tr><td valign="top" width="50%">
 
 - 👥 Actualmente estoy trabajando en un Ecommerce en un equipo freelance.    
@@ -50,7 +51,7 @@
 <br/>  
 
 
-## Languages and Tools  
+## Lenguajes y Herramientas 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
