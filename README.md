@@ -19,7 +19,8 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+<br/>  
+<br/>  
 
 <div align="center">Soy una persona que busca nuevos desafios y problematicas que me permitan hacer volar la imaginacion para resolverlas.  Quiero crear y mejorar Apps. Tambien aprender nuevas tecnologias que me ayuden a ofrecer una mejor calidad en mis trabajos.  </div>  
   
