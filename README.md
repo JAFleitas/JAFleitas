@@ -38,7 +38,7 @@
 - ❓ Actualmente estoy indagando en un lenguaje de programacion llamado Rust.    
   
 
--  ⚡Tambien estoy estudiando Ingles y nuevas buscando oportunidades !!    
+-  ⚡Tambien estoy estudiando Ingles y buscando nuevas oportunidades de trabajo !!    
 
 
 </td><td valign="top" width="50%">
